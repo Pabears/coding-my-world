@@ -1,2 +1,2 @@
-# learn-coding-from-bible
-In God We Trust.
+# coding-my-world
+if our world is coded by God, how God works?
